@@ -10,4 +10,4 @@ elif direction in ['Left', 'left', 'LEFT',]:
 elif direction in ['Right', 'right', 'RIGHT',]:
   print("I am painting to the right")
 else:
-  print("Please emter a valid direction")
+  print("Please enter a valid direction")
