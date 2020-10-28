@@ -3,4 +3,9 @@ activity = str(input())
 
 if activity in ['calculate', 'Calculate', 'CALCULATE',]:
   print("Performing calculations...")
-  print("Activity completed!")
+else:
+  print("Performing activity...")
+
+print("Activity completed!")
+#Original if statement could've been 
+  #if(activity.lower() == 'calculate')

@@ -11,3 +11,5 @@ elif secondnum < firstnum:
 if firstnum == secondnum:
   print("Both of the number are equal")
 
+#Alternative print could be
+  #print("{} is smaller than {}".format (firstnum, secondnum))
